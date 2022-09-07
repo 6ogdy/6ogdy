@@ -1,3 +1,7 @@
+<div id="particles-js"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
 <p align="left"> <a href="https://github.com/6ogdy" target="blank"> <img src="https://komarev.com/ghpvc/?username=6ogdy&label=Profile%20views&color=0e75b6&style=flat" alt="6ogdy" /> </p>
