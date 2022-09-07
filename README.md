@@ -16,6 +16,6 @@
 <p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6ogdy&show_icons=true&locale=en&layout=compact" alt="6ogdy"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=6ogdy&show_icons=true&locale=en" alt="6ogdy"
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api?username=6ogdy&show_icons=true&locale=en" alt="6ogdy"
        width="200" height="200"/></p>
 
