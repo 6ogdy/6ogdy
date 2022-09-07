@@ -1,5 +1,3 @@
-<div id="particles-js"></div>
-
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 
 <h3 align="center">A passionate frontend developer from Romania</h3>
