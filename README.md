@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/demo/index.html"></script>
+<script src="/demo/index.html"></script>
 
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
