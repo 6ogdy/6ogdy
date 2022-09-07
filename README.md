@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/MvMxQ1a.gif" height="200" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/MvMxQ1a.gif" height="200" width="400"></p>
 
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
